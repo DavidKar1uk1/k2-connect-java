@@ -7,16 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../json-20160810.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="json-20160810" level="project" />
     <orderEntry type="library" name="javax.json:javax.json-api:1.1.4" level="project" />
+    <orderEntry type="library" name="json-20160810" level="project" />
   </component>
 </module>
